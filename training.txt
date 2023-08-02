@@ -1,0 +1,96 @@
+LRMAX: 0.00027825594022071247
+Epoch 1
+Train: Loss=1.1369 Batch_id=97 Accuracy=47.66 LR=0.00027825594022071247: 100%|██████████| 98/98 [00:10<00:00,  9.47it/s]
+Test set: Average loss: 1.2168, Accuracy: 5718/10000 (57.18%)
+
+Epoch 2
+Train: Loss=0.8606 Batch_id=97 Accuracy=64.40 LR=0.00027825594022071247: 100%|██████████| 98/98 [00:10<00:00,  9.80it/s]
+Test set: Average loss: 0.8570, Accuracy: 6986/10000 (69.86%)
+
+Epoch 3
+Train: Loss=0.7341 Batch_id=97 Accuracy=71.41 LR=0.00027825594022071247: 100%|██████████| 98/98 [00:10<00:00,  9.73it/s]
+Test set: Average loss: 0.8162, Accuracy: 7160/10000 (71.60%)
+
+Epoch 4
+Train: Loss=0.6480 Batch_id=97 Accuracy=75.86 LR=0.00027825594022071247: 100%|██████████| 98/98 [00:09<00:00,  9.96it/s]
+Test set: Average loss: 0.6364, Accuracy: 7776/10000 (77.76%)
+
+Epoch 5
+Train: Loss=0.5736 Batch_id=97 Accuracy=78.75 LR=0.0002782557619962754: 100%|██████████| 98/98 [00:10<00:00,  9.68it/s] 
+Test set: Average loss: 0.7205, Accuracy: 7547/10000 (75.47%)
+
+Epoch 6
+Train: Loss=0.4816 Batch_id=97 Accuracy=81.13 LR=0.00027651321964413566: 100%|██████████| 98/98 [00:10<00:00,  9.73it/s]
+Test set: Average loss: 0.5486, Accuracy: 8145/10000 (81.45%)
+
+Epoch 7
+Train: Loss=0.4071 Batch_id=97 Accuracy=82.67 LR=0.00027140267065583687: 100%|██████████| 98/98 [00:10<00:00,  9.41it/s]
+Test set: Average loss: 0.5506, Accuracy: 8128/10000 (81.28%)
+
+Epoch 8
+Train: Loss=0.4595 Batch_id=97 Accuracy=83.86 LR=0.0002630635174855731: 100%|██████████| 98/98 [00:10<00:00,  9.71it/s] 
+Test set: Average loss: 0.5136, Accuracy: 8230/10000 (82.30%)
+
+Epoch 9
+Train: Loss=0.4363 Batch_id=97 Accuracy=84.86 LR=0.0002517232304932791: 100%|██████████| 98/98 [00:10<00:00,  9.74it/s] 
+Test set: Average loss: 0.4528, Accuracy: 8436/10000 (84.36%)
+
+Epoch 10
+Train: Loss=0.3455 Batch_id=97 Accuracy=86.03 LR=0.00023769114314618287: 100%|██████████| 98/98 [00:10<00:00,  9.56it/s]
+Test set: Average loss: 0.4320, Accuracy: 8559/10000 (85.59%)
+
+Epoch 11
+Train: Loss=0.4847 Batch_id=97 Accuracy=86.85 LR=0.00022135001420819144: 100%|██████████| 98/98 [00:09<00:00,  9.87it/s]
+Test set: Average loss: 0.4335, Accuracy: 8493/10000 (84.93%)
+
+Epoch 12
+Train: Loss=0.3552 Batch_id=97 Accuracy=87.84 LR=0.00020314558707858936: 100%|██████████| 98/98 [00:10<00:00,  9.35it/s]
+Test set: Average loss: 0.4351, Accuracy: 8544/10000 (85.44%)
+
+Epoch 13
+Train: Loss=0.3567 Batch_id=97 Accuracy=88.54 LR=0.00018357443107407242: 100%|██████████| 98/98 [00:10<00:00,  9.74it/s]
+Test set: Average loss: 0.4295, Accuracy: 8495/10000 (84.95%)
+
+Epoch 14
+Train: Loss=0.3091 Batch_id=97 Accuracy=89.36 LR=0.0001631703963122478: 100%|██████████| 98/98 [00:10<00:00,  9.80it/s] 
+Test set: Average loss: 0.4410, Accuracy: 8472/10000 (84.72%)
+
+Epoch 15
+Train: Loss=0.2544 Batch_id=97 Accuracy=90.30 LR=0.00014249005167206916: 100%|██████████| 98/98 [00:10<00:00,  9.69it/s]
+Test set: Average loss: 0.3465, Accuracy: 8807/10000 (88.07%)
+
+Epoch 16
+Train: Loss=0.2803 Batch_id=97 Accuracy=91.32 LR=0.00012209750304568556: 100%|██████████| 98/98 [00:10<00:00,  9.79it/s]
+Test set: Average loss: 0.3354, Accuracy: 8849/10000 (88.49%)
+
+Epoch 17
+Train: Loss=0.2187 Batch_id=97 Accuracy=91.97 LR=0.00010254900600021794: 100%|██████████| 98/98 [00:10<00:00,  9.36it/s]
+Test set: Average loss: 0.3713, Accuracy: 8763/10000 (87.63%)
+
+Epoch 18
+Train: Loss=0.1693 Batch_id=97 Accuracy=92.77 LR=8.43777925759381e-05: 100%|██████████| 98/98 [00:10<00:00,  9.72it/s]  
+Test set: Average loss: 0.3053, Accuracy: 8948/10000 (89.48%)
+
+Epoch 19
+Train: Loss=0.1974 Batch_id=97 Accuracy=93.65 LR=6.807952610624243e-05: 100%|██████████| 98/98 [00:10<00:00,  9.80it/s]
+Test set: Average loss: 0.3269, Accuracy: 8931/10000 (89.31%)
+
+Epoch 20
+Train: Loss=0.1678 Batch_id=97 Accuracy=94.31 LR=5.4098780814014285e-05: 100%|██████████| 98/98 [00:09<00:00,  9.80it/s]
+Test set: Average loss: 0.3017, Accuracy: 9007/10000 (90.07%)
+
+Epoch 21
+Train: Loss=0.1687 Batch_id=97 Accuracy=95.14 LR=4.2816914985742824e-05: 100%|██████████| 98/98 [00:10<00:00,  9.59it/s]
+Test set: Average loss: 0.3000, Accuracy: 9011/10000 (90.11%)
+
+Epoch 22
+Train: Loss=0.1611 Batch_id=97 Accuracy=95.60 LR=3.4541668511593955e-05: 100%|██████████| 98/98 [00:10<00:00,  9.34it/s]
+Test set: Average loss: 0.2683, Accuracy: 9108/10000 (91.08%)
+
+Epoch 23
+Train: Loss=0.1375 Batch_id=97 Accuracy=96.10 LR=2.949876854342494e-05: 100%|██████████| 98/98 [00:10<00:00,  9.72it/s] 
+Test set: Average loss: 0.2688, Accuracy: 9098/10000 (90.98%)
+
+Epoch 24
+Train: Loss=0.1014 Batch_id=97 Accuracy=96.28 LR=2.7825772246508313e-05: 100%|██████████| 98/98 [00:10<00:00,  9.39it/s]
+Test set: Average loss: 0.2787, Accuracy: 9093/10000 (90.93%)
